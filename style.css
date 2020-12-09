@@ -1,0 +1,65 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    text-align: center;
+    background-color: floralwhite;
+}
+
+.link {
+    list-style-type: none;
+    margin: 0;
+    float: right;
+    color: #BA68C8;
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 25px;
+    padding-bottom: 5px;
+    font-family: fantasy;
+    font-size: 20px;
+}
+
+section {
+    background: linear-gradient(yellow, pink, aquamarine);
+}
+
+img {
+    border-radius: 50%;
+    width: 100px;
+    margin-left: 610px;
+    margin-top: 15px;
+}
+
+h1 {
+    text-shadow: 2px 2px aqua;
+    color: black;
+}
+
+#hobby {
+    font-family: 'Caveat', cursive;
+    text-shadow: 2px 2px #F8BBD0;
+}
+
+h2 {
+    font-size: 18px;
+    color: indigo;
+}
+
+#about {
+    background: linear-gradient(greenyellow, yellow, pink, aqua);
+    margin: 25px;
+    background-size: cover;
+}
+
+.line {
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+
+p {
+    font-size: 18px;
+    color: black;
+}
